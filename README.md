@@ -88,6 +88,7 @@ Install requirements.txt
 ### 3️⃣ Add Data Files
 
 Place all provided CSV files in the same directory as app.py, or inside a data/ folder (and update paths if needed):
+Note that this app is only configured for the provided csv files as this is supposed to be a demo and not a production ready application.
 
 - orders.csv
 - warehouse_inventory.csv
@@ -102,3 +103,5 @@ Run the Streamlit app locally:
 streamlit run app.py
 
 The app will open automatically in your default web browser.
+
+
