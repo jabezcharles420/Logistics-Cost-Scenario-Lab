@@ -1,0 +1,201 @@
+order_id,order_date,customer_segment,priority,product_category,order_value,origin,destination,special_handling
+O-1001,2025-06-24,Enterprise,Standard,Food & Beverage,11846.84,Bangalore,Sambalpur,False
+O-1002,2025-10-20,Enterprise,Standard,Industrial goods,61755.69,Chennai,Mumbai,False
+O-1003,2025-07-15,SMB,Standard,Food & Beverage,12000.67,Mumbai,Bangalore,True
+O-1004,2025-08-09,Individual,Economy,Industrial goods,178742.79,Kolkata,Tiruchirappalli,False
+O-1005,2025-09-05,Individual,Express,Industrial goods,148800.66,Kolkata,Anantapur,False
+O-1006,2025-07-04,Enterprise,Express,Home Goods,14282.84,Kolkata,Bangkok,False
+O-1007,2025-10-19,SMB,Economy,Electronics,48627.62,Bangalore,Amroha,False
+O-1008,2025-10-20,Enterprise,Express,Food & Beverage,7283.25,Chennai,Kurnool,False
+O-1009,2025-08-06,SMB,Economy,Home Goods,19613.47,Mumbai,Kurnool,False
+O-1010,2025-06-01,Enterprise,Standard,Food & Beverage,12533.43,Bangalore,Moradabad,False
+O-1011,2025-10-07,SMB,Standard,Fashion,10558.85,Bangalore,Lucknow,False
+O-1012,2025-05-08,Individual,Standard,Healthcare,6072.99,Kolkata,Bangkok,False
+O-1013,2025-09-01,Individual,Standard,Healthcare,4060.62,Mumbai,Moradabad,False
+O-1014,2025-10-19,Individual,Express,Books,1250.33,Chennai,Delhi,False
+O-1015,2025-06-09,SMB,Express,Food & Beverage,3443.21,Mumbai,Amroha,False
+O-1016,2025-08-16,Enterprise,Economy,Food & Beverage,11960.24,Kolkata,Ujjain,False
+O-1017,2025-08-08,Individual,Standard,Healthcare,14333.81,Mumbai,Belgaum,False
+O-1018,2025-09-23,Individual,Express,Fashion,7293.49,Bangalore,Davanagere,False
+O-1019,2025-07-18,SMB,Standard,Electronics,7795.01,Delhi,Davanagere,True
+O-1020,2025-06-18,Individual,Economy,Healthcare,12553.05,Bangalore,Bangkok,True
+O-1021,2025-07-19,SMB,Standard,Healthcare,1087.38,Kolkata,Sambalpur,True
+O-1022,2025-06-27,Individual,Economy,Industrial goods,77535.81,Mumbai,Belgaum,False
+O-1023,2025-08-23,Enterprise,Express,Industrial goods,107518.37,Bangalore,Sambalpur,False
+O-1024,2025-07-19,Enterprise,Standard,Books,2590.23,Delhi,Chennai,False
+O-1025,2025-09-05,Enterprise,Economy,Home Goods,15437.34,Kolkata,Kurnool,False
+O-1026,2025-06-11,SMB,Express,Home Goods,4138.85,Delhi,Dewas,False
+O-1027,2025-07-31,SMB,Express,Healthcare,16529.36,Delhi,Suryapet,False
+O-1028,2025-06-24,SMB,Express,Fashion,18153.84,Mumbai,Kurnool,False
+O-1029,2025-05-02,Individual,Economy,Healthcare,16865.68,Delhi,Mumbai,True
+O-1030,2025-10-26,Individual,Express,Fashion,19979.89,Chennai,Dubai,False
+O-1031,2025-10-02,Individual,Standard,Fashion,12814.47,Mumbai,Bareilly,False
+O-1032,2025-09-10,Enterprise,Economy,Industrial goods,172394.71,Chennai,Moradabad,False
+O-1033,2025-06-06,Enterprise,Express,Food & Beverage,10596.53,Delhi,Moradabad,False
+O-1034,2025-10-23,SMB,Express,Home Goods,8142.22,Delhi,Moradabad,False
+O-1035,2025-06-30,SMB,Express,Home Goods,16776.77,Chennai,Hong Kong,False
+O-1036,2025-06-10,Enterprise,Economy,Home Goods,3018.25,Delhi,Anantapur,False
+O-1037,2025-05-21,SMB,Economy,Fashion,13252.72,Mumbai,Mango,False
+O-1038,2025-08-24,SMB,Express,Industrial goods,11983.77,Bangalore,Dubai,False
+O-1039,2025-07-05,Enterprise,Express,Food & Beverage,11571.73,Bangalore,Bangkok,False
+O-1040,2025-07-28,Enterprise,Standard,Industrial goods,100488.33,Bangalore,Kurnool,False
+O-1041,2025-10-16,Individual,Economy,Fashion,17349.09,Mumbai,Kolkata,False
+O-1042,2025-06-02,Individual,Standard,Electronics,30250.56,Mumbai,Singapore,False
+O-1043,2025-09-06,SMB,Standard,Food & Beverage,1544.22,Bangalore,Davanagere,True
+O-1044,2025-07-13,Individual,Economy,Home Goods,10828.77,Chennai,Singapore,False
+O-1045,2025-09-25,Enterprise,Economy,Books,3555.03,Mumbai,Bareilly,False
+O-1046,2025-08-01,Individual,Economy,Home Goods,1450.58,Mumbai,Bardhaman,False
+O-1047,2025-10-13,Enterprise,Express,Food & Beverage,5970.52,Chennai,Dubai,False
+O-1048,2025-10-17,Individual,Standard,Healthcare,15198.99,Delhi,Tenali,False
+O-1049,2025-10-07,Enterprise,Express,Electronics,99136.34,Mumbai,Lucknow,False
+O-1050,2025-07-10,Individual,Economy,Food & Beverage,9899.06,Chennai,Bardhaman,False
+O-1051,2025-08-16,Individual,Economy,Healthcare,7198.27,Mumbai,Bardhaman,True
+O-1052,2025-08-17,SMB,Economy,Electronics,79651.25,Delhi,Kurnool,False
+O-1053,2025-07-21,Individual,Standard,Fashion,19736.64,Chennai,Hong Kong,False
+O-1054,2025-07-24,Individual,Standard,Food & Beverage,12548.82,Chennai,Davanagere,False
+O-1055,2025-07-04,Individual,Express,Healthcare,13386.71,Bangalore,Mumbai,True
+O-1056,2025-08-25,SMB,Express,Healthcare,18863.73,Delhi,Bangkok,True
+O-1057,2025-05-29,SMB,Economy,Food & Beverage,6690.37,Kolkata,Kurnool,True
+O-1058,2025-09-06,Individual,Standard,Electronics,61173.71,Chennai,Bally,True
+O-1059,2025-07-03,Individual,Express,Fashion,10322.04,Delhi,Lucknow,False
+O-1060,2025-10-02,Enterprise,Standard,Books,3621.62,Mumbai,Anantapur,False
+O-1061,2025-09-29,Individual,Economy,Healthcare,4607.78,Bangalore,Belgaum,False
+O-1062,2025-05-30,Individual,Economy,Industrial goods,54462.68,Bangalore,Lucknow,False
+O-1063,2025-07-29,Enterprise,Economy,Fashion,9304.23,Kolkata,Delhi,False
+O-1064,2025-09-30,Enterprise,Economy,Electronics,56109.65,Chennai,Tiruchirappalli,False
+O-1065,2025-07-20,SMB,Economy,Healthcare,2867.91,Kolkata,Kurnool,True
+O-1066,2025-08-11,SMB,Standard,Healthcare,16698.33,Bangalore,Delhi,True
+O-1067,2025-10-04,Individual,Standard,Industrial goods,128100.5,Delhi,Belgaum,False
+O-1068,2025-05-04,Enterprise,Standard,Industrial goods,86141.31,Kolkata,Tiruchirappalli,False
+O-1069,2025-06-01,SMB,Standard,Food & Beverage,14246.18,Mumbai,Bangalore,True
+O-1070,2025-09-07,Individual,Express,Electronics,51320.2,Chennai,Amroha,False
+O-1071,2025-10-18,SMB,Economy,Industrial goods,101048.92,Delhi,Bally,False
+O-1072,2025-05-07,Individual,Economy,Books,4473.63,Delhi,Tiruchirappalli,False
+O-1073,2025-10-20,Enterprise,Standard,Food & Beverage,17450.36,Chennai,Mango,False
+O-1074,2025-07-25,Individual,Express,Food & Beverage,16082.46,Delhi,Suryapet,False
+O-1075,2025-07-24,Individual,Express,Healthcare,13836.68,Chennai,Bareilly,False
+O-1076,2025-08-15,Individual,Standard,Healthcare,2204.49,Mumbai,Chennai,False
+O-1077,2025-06-09,Enterprise,Standard,Industrial goods,100735.49,Bangalore,Dubai,False
+O-1078,2025-09-21,SMB,Economy,Healthcare,2040.63,Delhi,Moradabad,False
+O-1079,2025-05-17,Individual,Standard,Home Goods,13773.23,Bangalore,Saharsa,False
+O-1080,2025-10-21,Individual,Express,Electronics,22270.5,Chennai,Tiruchirappalli,False
+O-1081,2025-08-16,Enterprise,Express,Fashion,12841.1,Kolkata,Suryapet,False
+O-1082,2025-06-19,SMB,Standard,Fashion,7907.03,Mumbai,Singapore,False
+O-1083,2025-07-29,SMB,Standard,Fashion,2573.56,Delhi,Bally,False
+O-1084,2025-07-19,Enterprise,Economy,Healthcare,11415.71,Bangalore,Belgaum,False
+O-1085,2025-08-19,Individual,Economy,Food & Beverage,17503.98,Kolkata,Davanagere,True
+O-1086,2025-08-28,Enterprise,Standard,Electronics,11904.09,Mumbai,Kolkata,False
+O-1087,2025-06-09,Individual,Economy,Electronics,30691.67,Bangalore,Suryapet,True
+O-1088,2025-06-04,SMB,Standard,Food & Beverage,15524.19,Delhi,Davanagere,False
+O-1089,2025-06-25,Individual,Express,Healthcare,17927.71,Delhi,Tenali,True
+O-1090,2025-10-12,SMB,Express,Electronics,40323.88,Delhi,Bardhaman,True
+O-1091,2025-08-27,Individual,Express,Healthcare,15762.95,Chennai,Ujjain,False
+O-1092,2025-10-11,Enterprise,Standard,Food & Beverage,4848.43,Chennai,Sirsa,True
+O-1093,2025-10-24,SMB,Express,Books,3242.94,Delhi,Hong Kong,False
+O-1094,2025-09-02,SMB,Economy,Healthcare,1689.31,Bangalore,Dubai,True
+O-1095,2025-05-11,Individual,Economy,Books,2628.75,Chennai,Anantapur,False
+O-1096,2025-06-11,SMB,Economy,Industrial goods,147580.57,Chennai,Davanagere,False
+O-1097,2025-05-11,Enterprise,Express,Food & Beverage,15079.12,Kolkata,Sambalpur,False
+O-1098,2025-10-28,Individual,Standard,Books,1548.99,Bangalore,Davanagere,False
+O-1099,2025-10-22,SMB,Standard,Healthcare,6470.26,Chennai,Saharsa,False
+O-1100,2025-05-08,SMB,Economy,Home Goods,10211.2,Delhi,Bangalore,False
+O-1101,2025-08-11,SMB,Economy,Books,4617.52,Delhi,Sirsa,False
+O-1102,2025-06-16,Enterprise,Express,Industrial goods,47888.08,Chennai,Bangalore,False
+O-1103,2025-09-14,Enterprise,Standard,Books,3266.81,Mumbai,Tiruchirappalli,False
+O-1104,2025-09-07,Enterprise,Standard,Food & Beverage,15729.71,Kolkata,Kurnool,False
+O-1105,2025-05-24,Individual,Standard,Fashion,10942.16,Mumbai,Sirsa,False
+O-1106,2025-09-24,SMB,Economy,Food & Beverage,18691.75,Chennai,Delhi,True
+O-1107,2025-05-05,SMB,Express,Electronics,10452.62,Delhi,Dubai,False
+O-1108,2025-06-07,Individual,Economy,Books,3296.1,Delhi,Dubai,False
+O-1109,2025-07-20,SMB,Express,Electronics,11475.85,Delhi,Chennai,False
+O-1110,2025-06-09,Individual,Standard,Healthcare,4049.22,Bangalore,Kolkata,True
+O-1111,2025-05-24,Individual,Express,Food & Beverage,5810.89,Bangalore,Delhi,False
+O-1112,2025-09-10,Individual,Standard,Food & Beverage,17902.05,Mumbai,Dubai,False
+O-1113,2025-10-17,SMB,Standard,Home Goods,13818.12,Bangalore,Hong Kong,False
+O-1114,2025-09-11,SMB,Standard,Books,2729.67,Chennai,Anantapur,False
+O-1115,2025-05-29,SMB,Standard,Healthcare,9733.58,Chennai,Lucknow,True
+O-1116,2025-10-06,Individual,Express,Electronics,96098.47,Mumbai,Hong Kong,True
+O-1117,2025-09-21,SMB,Express,Books,4028.36,Kolkata,Bardhaman,False
+O-1118,2025-10-26,SMB,Economy,Healthcare,11462.48,Kolkata,Sirsa,False
+O-1119,2025-05-21,Individual,Express,Industrial goods,116503.06,Delhi,Sirsa,False
+O-1120,2025-09-11,Enterprise,Standard,Books,4955.09,Kolkata,Tiruchirappalli,False
+O-1121,2025-06-19,SMB,Express,Food & Beverage,10644.64,Delhi,Tenali,True
+O-1122,2025-06-19,Individual,Express,Home Goods,13465.82,Kolkata,Mango,False
+O-1123,2025-07-11,Enterprise,Express,Home Goods,7808.67,Kolkata,Lucknow,False
+O-1124,2025-05-17,Individual,Express,Industrial goods,106625.05,Kolkata,Lucknow,False
+O-1125,2025-05-02,Individual,Standard,Healthcare,15231.77,Kolkata,Tiruchirappalli,False
+O-1126,2025-10-16,Enterprise,Economy,Books,3339.52,Mumbai,Sirsa,False
+O-1127,2025-05-05,Enterprise,Standard,Books,2070.19,Bangalore,Kolkata,False
+O-1128,2025-08-02,SMB,Express,Home Goods,5474.95,Chennai,Sirsa,False
+O-1129,2025-07-23,Individual,Express,Electronics,89487.89,Mumbai,Kurnool,False
+O-1130,2025-10-24,Individual,Express,Fashion,12137.01,Mumbai,Bardhaman,False
+O-1131,2025-08-10,Individual,Standard,Healthcare,10971.82,Mumbai,Kurnool,True
+O-1132,2025-06-18,Enterprise,Standard,Books,4725.46,Mumbai,Saharsa,False
+O-1133,2025-10-06,SMB,Economy,Fashion,5796.0,Bangalore,Sambalpur,False
+O-1134,2025-05-31,Individual,Standard,Food & Beverage,7823.35,Chennai,Singapore,True
+O-1135,2025-08-06,Enterprise,Standard,Fashion,6362.4,Chennai,Bardhaman,False
+O-1136,2025-10-09,Enterprise,Express,Electronics,43853.4,Mumbai,Chennai,True
+O-1137,2025-06-13,SMB,Standard,Home Goods,1097.87,Chennai,Ujjain,False
+O-1138,2025-09-14,Enterprise,Standard,Electronics,27062.03,Chennai,Sirsa,False
+O-1139,2025-07-30,SMB,Standard,Healthcare,10486.57,Mumbai,Dewas,False
+O-1140,2025-08-08,Individual,Standard,Food & Beverage,7941.54,Mumbai,Anantapur,False
+O-1141,2025-05-19,SMB,Economy,Food & Beverage,12840.66,Delhi,Kurnool,True
+O-1142,2025-05-21,Individual,Express,Healthcare,17536.46,Mumbai,Bareilly,False
+O-1143,2025-05-04,Individual,Standard,Industrial goods,127470.72,Kolkata,Bardhaman,False
+O-1144,2025-08-19,Individual,Standard,Home Goods,11657.33,Chennai,Bally,False
+O-1145,2025-05-24,Individual,Economy,Industrial goods,105016.18,Mumbai,Dewas,False
+O-1146,2025-06-19,Individual,Economy,Home Goods,4768.65,Kolkata,Delhi,False
+O-1147,2025-08-10,Individual,Economy,Industrial goods,180618.66,Delhi,Chennai,False
+O-1148,2025-09-20,Enterprise,Express,Industrial goods,25486.05,Chennai,Mumbai,False
+O-1149,2025-09-24,SMB,Economy,Home Goods,10770.82,Mumbai,Hong Kong,False
+O-1150,2025-06-22,Enterprise,Standard,Industrial goods,61735.91,Bangalore,Kurnool,False
+O-1151,2025-09-22,Individual,Standard,Home Goods,15616.89,Bangalore,Bangkok,False
+O-1152,2025-05-19,Individual,Express,Home Goods,8614.89,Bangalore,Bally,False
+O-1153,2025-08-02,Individual,Express,Food & Beverage,1880.06,Chennai,Kurnool,False
+O-1154,2025-07-23,Enterprise,Standard,Electronics,28530.91,Bangalore,Amroha,True
+O-1155,2025-08-11,SMB,Express,Fashion,5157.19,Mumbai,Belgaum,False
+O-1156,2025-06-15,Enterprise,Standard,Food & Beverage,14065.12,Kolkata,Singapore,False
+O-1157,2025-07-08,Enterprise,Standard,Books,973.97,Delhi,Dubai,False
+O-1158,2025-09-30,SMB,Express,Home Goods,10884.06,Chennai,Anantapur,False
+O-1159,2025-05-19,SMB,Express,Books,2348.92,Kolkata,Dubai,False
+O-1160,2025-05-18,SMB,Standard,Home Goods,11830.63,Bangalore,Bally,False
+O-1161,2025-09-29,Individual,Express,Fashion,12078.62,Bangalore,Bally,False
+O-1162,2025-05-11,SMB,Economy,Electronics,37942.85,Mumbai,Sirsa,False
+O-1163,2025-10-20,Enterprise,Standard,Fashion,5046.39,Kolkata,Bardhaman,False
+O-1164,2025-07-22,Individual,Express,Industrial goods,161233.09,Kolkata,Dewas,False
+O-1165,2025-09-04,Enterprise,Economy,Industrial goods,98972.97,Chennai,Sirsa,False
+O-1166,2025-08-21,SMB,Express,Electronics,35797.62,Kolkata,Suryapet,False
+O-1167,2025-05-19,SMB,Economy,Industrial goods,164480.17,Bangalore,Suryapet,False
+O-1168,2025-08-30,Enterprise,Express,Home Goods,9751.48,Chennai,Kolkata,False
+O-1169,2025-08-10,Enterprise,Express,Fashion,13580.57,Chennai,Sirsa,False
+O-1170,2025-08-31,SMB,Express,Food & Beverage,6688.14,Chennai,Bardhaman,True
+O-1171,2025-10-13,SMB,Express,Home Goods,13129.24,Bangalore,Chennai,False
+O-1172,2025-06-28,SMB,Express,Healthcare,14970.56,Bangalore,Saharsa,False
+O-1173,2025-05-02,SMB,Express,Books,3585.81,Bangalore,Lucknow,False
+O-1174,2025-07-01,Enterprise,Express,Industrial goods,22099.36,Kolkata,Lucknow,False
+O-1175,2025-05-23,Individual,Economy,Healthcare,15549.27,Kolkata,Amroha,False
+O-1176,2025-09-26,Enterprise,Standard,Electronics,10755.32,Kolkata,Bareilly,False
+O-1177,2025-08-12,Individual,Standard,Home Goods,8276.83,Kolkata,Bareilly,False
+O-1178,2025-09-16,SMB,Economy,Food & Beverage,17768.75,Mumbai,Kurnool,False
+O-1179,2025-06-12,Individual,Standard,Books,1744.3,Bangalore,Kurnool,False
+O-1180,2025-07-04,Enterprise,Express,Industrial goods,59362.5,Bangalore,Lucknow,False
+O-1181,2025-05-08,Individual,Economy,Food & Beverage,2341.01,Kolkata,Ujjain,False
+O-1182,2025-10-15,Individual,Economy,Healthcare,4111.25,Kolkata,Dubai,False
+O-1183,2025-09-16,SMB,Economy,Healthcare,2476.11,Chennai,Belgaum,True
+O-1184,2025-07-03,Enterprise,Standard,Home Goods,2777.45,Chennai,Sirsa,False
+O-1185,2025-05-29,Individual,Economy,Food & Beverage,12317.92,Chennai,Bally,False
+O-1186,2025-08-06,Enterprise,Economy,Healthcare,6727.88,Bangalore,Kurnool,False
+O-1187,2025-10-21,SMB,Standard,Healthcare,1584.91,Mumbai,Sambalpur,False
+O-1188,2025-06-01,Individual,Standard,Electronics,52995.12,Kolkata,Suryapet,True
+O-1189,2025-10-09,Individual,Economy,Electronics,68540.51,Kolkata,Mango,False
+O-1190,2025-05-25,SMB,Standard,Industrial goods,172420.97,Delhi,Bareilly,False
+O-1191,2025-09-20,Enterprise,Economy,Electronics,41967.51,Delhi,Hong Kong,True
+O-1192,2025-10-28,Enterprise,Express,Healthcare,18929.09,Delhi,Sirsa,False
+O-1193,2025-07-05,Enterprise,Economy,Healthcare,15786.96,Chennai,Dewas,False
+O-1194,2025-10-14,Enterprise,Economy,Healthcare,18341.44,Chennai,Kolkata,True
+O-1195,2025-07-12,Enterprise,Express,Food & Beverage,16208.35,Kolkata,Davanagere,True
+O-1196,2025-07-29,SMB,Express,Home Goods,5877.49,Bangalore,Amroha,False
+O-1197,2025-05-17,Enterprise,Standard,Food & Beverage,3466.22,Bangalore,Bally,False
+O-1198,2025-05-30,Enterprise,Economy,Fashion,10823.21,Kolkata,Kurnool,False
+O-1199,2025-05-18,SMB,Economy,Electronics,17582.33,Bangalore,Hong Kong,False
+O-1200,2025-05-07,Enterprise,Express,Fashion,11909.88,Delhi,Tiruchirappalli,False

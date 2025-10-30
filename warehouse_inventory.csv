@@ -1,0 +1,36 @@
+warehouse_id,warehouse_location,product_category,stock_level,reorder_level,storage_cost_pu_pm,last_restocked_date
+W-1,Mumbai,Electronics,402,116,12.94,2025-09-07
+W-1,Mumbai,Fashion,862,330,23.8,2025-09-11
+W-1,Mumbai,Food & Beverage,1722,532,5.12,2025-09-07
+W-1,Mumbai,Healthcare,178,37,26.15,2025-09-24
+W-1,Mumbai,Industrial goods,921,231,23.2,2025-10-27
+W-1,Mumbai,Books,1570,320,10.05,2025-10-08
+W-1,Mumbai,Home Goods,715,269,19.54,2025-10-21
+W-2,Delhi,Electronics,847,301,19.73,2025-10-04
+W-2,Delhi,Fashion,934,347,27.83,2025-08-05
+W-2,Delhi,Food & Beverage,1105,310,10.79,2025-08-12
+W-2,Delhi,Healthcare,206,41,7.12,2025-10-10
+W-2,Delhi,Industrial goods,817,294,12.13,2025-10-01
+W-2,Delhi,Books,1298,462,24.79,2025-09-20
+W-2,Delhi,Home Goods,466,184,8.56,2025-08-31
+W-3,Bangalore,Electronics,1401,493,23.46,2025-09-05
+W-3,Bangalore,Fashion,1406,345,15.09,2025-08-18
+W-3,Bangalore,Food & Beverage,886,199,5.32,2025-08-19
+W-3,Bangalore,Healthcare,1728,674,22.47,2025-08-15
+W-3,Bangalore,Industrial goods,429,169,10.69,2025-09-06
+W-3,Bangalore,Books,641,174,12.84,2025-09-28
+W-3,Bangalore,Home Goods,1396,362,12.24,2025-09-14
+W-4,Chennai,Electronics,157,61,10.41,2025-09-24
+W-4,Chennai,Fashion,597,234,7.88,2025-10-11
+W-4,Chennai,Food & Beverage,1129,431,13.98,2025-09-23
+W-4,Chennai,Healthcare,1749,538,22.65,2025-08-13
+W-4,Chennai,Industrial goods,1864,412,18.47,2025-09-29
+W-4,Chennai,Books,821,316,18.19,2025-10-16
+W-4,Chennai,Home Goods,1494,455,22.46,2025-09-15
+W-5,Kolkata,Electronics,67,18,15.59,2025-08-01
+W-5,Kolkata,Fashion,1486,336,9.07,2025-09-14
+W-5,Kolkata,Food & Beverage,1973,753,28.41,2025-10-21
+W-5,Kolkata,Healthcare,784,267,15.74,2025-08-08
+W-5,Kolkata,Industrial goods,222,50,15.41,2025-08-24
+W-5,Kolkata,Books,1141,363,17.36,2025-10-03
+W-5,Kolkata,Home Goods,1227,387,29.76,2025-09-17
