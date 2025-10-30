@@ -104,4 +104,13 @@ streamlit run app.py
 
 The app will open automatically in your default web browser.
 
+## 🖥️ App Screenshots
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4b1b3fc8-eab4-442e-8f5f-5db098f8b7aa" />
+<img width="1440" height="900" alt="Bildschirmfoto 2025-10-30 um 6 37 17 PM" src="https://github.com/user-attachments/assets/4d048806-e07f-4560-ae20-3721f222af1d" />
+<img width="1440" height="900" alt="Bildschirmfoto 2025-10-30 um 6 37 25 PM" src="https://github.com/user-attachments/assets/01a85e05-876f-4312-84c4-4a328baf42fe" />
+<img width="1440" height="900" alt="Bildschirmfoto 2025-10-30 um 6 37 32 PM" src="https://github.com/user-attachments/assets/b79f5983-7f1b-4675-a976-3814b542a882" />
+<img width="1440" height="900" alt="Bildschirmfoto 2025-10-30 um 6 37 42 PM" src="https://github.com/user-attachments/assets/5650182c-cba8-4a57-9288-1d8475f2e622" />
+
+
+
 
